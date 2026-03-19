@@ -191,7 +191,7 @@ Carlos Jorge
 
 ## 📄 Licença
 
-Projeto open-source para fins educacionais.
+Projeto open-source com foco em desenvolvimento front-end utilizando Spring Boot, seguindo boas práticas de mercado..
 
 ---
 
